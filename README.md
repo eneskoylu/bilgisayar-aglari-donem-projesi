@@ -1,8 +1,7 @@
 # BSM307 – Bilgisayar Ağları Dönem Projesi
-## Çok Amaçlı Ağ Yönlendirme Problemi
 
 
-## 👤 Öğrenci Bilgileri
+##  Öğrenci Bilgileri
 - **Ad Soyad:** Muhammed Enes Köylü / 19640310011
 - **Ders:** BSM307 – Bilgisayar Ağları  
 
